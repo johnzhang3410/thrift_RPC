@@ -1,4 +1,4 @@
-# ECE454 A1
+# Thrift RPC
 
 
 # TO RUN THE CODE: 
